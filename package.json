@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/alejozepol/reactHolaMundo/issues"
   },
-  "homepage": "https://github.com/alejozepol/reactHolaMundo#readme"
+  "homepage": "https://github.com/alejozepol/reactHolaMundo#readme",
+  "dependencies": {
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5"
+  }
 }
